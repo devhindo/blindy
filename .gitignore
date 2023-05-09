@@ -1,4 +1,11 @@
+# IDE && python venv
 venv/
 .vscode/
 ideas.md
 *.pdf
+
+# PyInstaller
+
+main.spec
+build
+dist
